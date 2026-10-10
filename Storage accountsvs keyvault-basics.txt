@@ -1,0 +1,25 @@
+Storage accounts:
+----------------
+
+- Store any type of data
+- While creating the storage accounts many options available but out perspective view choose only 
+  blob or data lake gen2
+- there is a option called hierarchical namespace means for example 
+   if you select "Enable hierarchical namespace" checkbox means your storage acc belongs to data lake gen2
+
+-incase if you miss this checkbox means storage acc belongs to blob
+
+
+Key vault:
+---------
+- Store sensitive information
+- create the key vault two options available 1.vault access(one time permission) policy 2. RBAC(Role based access control)
+
+keys: RSA key, EC key
+secrets: passwords, connection strings, api keys
+certificates: SSL/TLS certificates
+
+Role:  Software engineer , key vault administer 
+members: suresh, rakesh, Ramesh
+
+IAM -> key vault administer -> add members -> create

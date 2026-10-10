@@ -1,0 +1,22 @@
+RDBMS: Relational database management System
+---------------------------
+
+- It is a type of database system used to store data, organize , manage, retrieve data 
+- Purpose is data storage
+- SQl queries retrieval the data
+- Insert, update, delete we can data manipulation
+- there is a relationships between one table to another table
+- While working with tables prevent duplicates values we can apply data integrity 
+- backup & recovery
+- reports 
+
+Tools:
+----
+1. Microsoft Sql server 
+2. My SQL - oracle
+3. PostgreSQL
+4. IBM db2
+5. Maria DB
+6. Azure SQl database -Azure portal
+7. Amazon RDS - AWS
+8. Google cloud SQL - google cloud
